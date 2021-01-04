@@ -2,22 +2,15 @@ title: Duncan Hart
 
 description:  The personal website of Duncan Hart, senior technology risk and cyber security specialist.
 
-# A brief blurb about yourself
 content: I'm <a href="https://linkedin.com/in/duncanhart">Duncan Hart</a> and I'm a senior risk and cybersecurity specialist. I have significant experience in multiple industries and multiple geographies - from in depth engineering to Board-level management. 
 
-# Add your social links
 social:
-  - platform: github
-    url: https://github.com/
-  - platform: facebook
-    url: https://facebook.com/
+  - platform: Mastodon
+    url: https://mastodon.neophili.ac/@duncanhart
   - platform: twitter
-    url: https://twitter.com/
-  - platform: linkedin
-    url: brianmaierjr
-
+    url: https://twitter.com/duncanhart
 # General settings
-# url: http://brianmaierjr.github.com/uni
+# url: http://duncanhart.com/
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
