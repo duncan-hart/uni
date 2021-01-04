@@ -14,6 +14,7 @@ social:
 url: http://duncanhart.com/
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
