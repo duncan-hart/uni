@@ -12,7 +12,7 @@ social:
   - platform: Email
     url: mailto:dah@duncanhart.com
   - platform: Matrix
-    url: @dah:matrix.crq.ac/
+    url: https://matrix.crq.ac/
 # General settings
 # url: http://duncanhart.com/
 # baseurl: "/uni" 
