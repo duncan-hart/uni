@@ -7,8 +7,12 @@ content: I'm <a href="https://linkedin.com/in/duncanhart">Duncan Hart</a> and I'
 social:
   - platform: Mastodon
     url: https://mastodon.neophili.ac/@duncanhart
-  - platform: twitter
+  - platform: Twitter
     url: https://twitter.com/duncanhart
+  - platform: Email
+    url: mailto:dah@duncanhart.com
+  - platform: Matrix
+    url: @dah:matrix.crq.ac/
 # General settings
 # url: http://duncanhart.com/
 # baseurl: "/uni" 
