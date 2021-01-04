@@ -15,6 +15,10 @@ url: http://duncanhart.com/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
+title: Duncan Hart
+description: The personal website of Duncan Hart, senior technology risk and cyber security specialist.
+author: Duncan Hart  
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
