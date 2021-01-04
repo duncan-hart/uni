@@ -11,6 +11,8 @@ social:
     url: https://twitter.com/duncanhart
   - platform: Email
     url: mailto:dah@duncanhart.com
+  - platform: XMPP
+    url: xmpp:dah@xmpp.partners
   - platform: Matrix
     url: https://matrix.crq.ac/
 # General settings
