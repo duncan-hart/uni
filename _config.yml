@@ -11,7 +11,9 @@ social:
   - platform: Matrix
     url: https://matrix.crq.ac/
 # General settings
-# url: http://duncanhart.com/
+url: http://duncanhart.com/
+plugins:
+  - jekyll-sitemap
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
