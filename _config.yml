@@ -13,7 +13,7 @@ social:
   - platform: RSS
     url: https://duncanhart.com/feed.xml
 # General settings
-url: http://duncanhart.com/
+url: https://duncanhart.com/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
