@@ -2,14 +2,12 @@ title: Duncan Hart - Cyber Security & Systems Thinking Specialist
 description:  The personal website of Duncan Hart, senior technology risk, cyber security & systems thinking specialist.
 content: I'm <a href="https://linkedin.com/in/duncanhart">Duncan Hart</a> a senior risk and cybersecurity specialist. I have significant experience in multiple industries and multiple geographies - from in depth engineering to Board-level management. 
 social:
-  - platform: Mastodon
+  - platform: Fediverse / Mastodon
     url: https://mastodon.neophili.ac/@duncanhart
   - platform: Twitter
     url: https://twitter.com/duncanhart
   - platform: XMPP
     url: xmpp:dah@xmpp.partners
-  - platform: Matrix
-    url: https://matrix.crq.ac/
   - platform: RSS
     url: https://duncanhart.com/feed.xml
 # General settings
